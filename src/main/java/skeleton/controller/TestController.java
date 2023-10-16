@@ -20,7 +20,7 @@ import io.swagger.v3.oas.annotations.tags.Tag;
 
 @RestController
 @Validated
-@Tag(name = "TestController", description = "API di test")
+@Tag(name = "TestController", description = "API di test per corso")
 public class TestController {
 
 	// @formatter:off
